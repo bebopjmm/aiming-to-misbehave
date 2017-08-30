@@ -32,21 +32,19 @@
 | **Prey (humans)** | Aogán gains a +1d6 bonus to attempts to track human targets. |
 
 ## Tactical
-### Movement
 
+| Movement ||||||||
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | **INITIATIVE** | 5d6 | **PERCEPTION** | 4d6 |||||
 | **ACTIONS** | 2 | **CARRY** | 70 lb |||||
 | **SPEED** | 5  | **CLIMB** | 3  | **SWIM** | 2  | **JUMP** | 8’/3’ |  
   
-### Defenses
-
+| Defenses ||||||
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | **HEALTH** | 35 | **SOAK** | 4 (leather vest) | **VULN** | - |
 | **MELEE** | 11 | **RANGED** | 11 | **MENTAL** | 14 |  
   
-### Attacks
-
+| Attacks ||
 | ---- | ---- |
 | Brawling | 2d6 (1d6+2 blunt damage) |
 | Dagger | 2d6 (2d6 pierce damage) |
