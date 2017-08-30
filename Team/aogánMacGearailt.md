@@ -1,5 +1,5 @@
 # Aogán Mac Gearailt (The Scoundrel)
-***A persuasive human ex-gambler who has expensive tastes (REP)***
+***A persuasive human ex-gambler who has expensive tastes (REP)***  
 (Medium; grade 5; max dice pool 5d6; Age 29)  
 **XP**: 0   
 
