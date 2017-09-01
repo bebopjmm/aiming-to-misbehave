@@ -65,7 +65,8 @@ Why did he leave the marines? Something happened on his last mission
 | Career | Levels | Age at Start |
 | ---- | ---- | ---- |
 | Chim’onn Battle School | 1 | 14 |
-| Marine Cadet Assignment  \<medal\> | 1 | 22 |
+| Maring Cadet Assignment | 1 | 20 |
+| Marine Tour  \<medal\> | 1 | 22 |
 | Special Forces | 1 | 25 |
 
 ## Contacts
